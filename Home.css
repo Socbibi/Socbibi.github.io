@@ -1,4 +1,6 @@
-
+body{
+    background-color: cadetblue;
+}
 p {
     background-color: white;
     width:200px;
