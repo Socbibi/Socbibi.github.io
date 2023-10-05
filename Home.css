@@ -1,9 +1,4 @@
-body {
-    
-    background-image : url(programming.jpg);
-    background-size: contain;
-    
-}
+
 p {
     background-color: white;
     width:200px;
@@ -13,13 +8,20 @@ h1{
     text-align: center;
 }
 img{
-    background-color: beige;
-    width:200px;
-    text-align: left;
+    
+    width:100%;
+    
 }
 video{
     width:50%;
+    margin-top: 10%;
+    
 }
 ul{
     background-color:white;
 }
+#Content{
+    background-color: white;
+    width:200px;
+}
+
