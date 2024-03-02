@@ -1,65 +1,48 @@
-body {
-    background-color: #f2f2f2;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    font-size: 115%;
+html{
+    background-color: lightblue;
+    padding: 2% 2% 0% 2%;
 }
-
-header {
-    background-color: #3498db;
-    text-align: center;
-    padding: 1%;
-    color: white;
-}
-
-nav#Content {
-    background-color: #3498db;
-    width: 20%;
-    float: left;
-    padding: 2%;
-}
-
-nav#Content ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav#Content li {
-    margin-bottom: 1%;
-    padding: 2%
-}
-
-nav#Content a {
-    color: white;
-    text-decoration: none;
-   
-}
-
-section {
-    margin-left: 22%;
-
-}
-
-table {
-    width: 50%;
-}
-
-td {
-    vertical-align: top;
-    padding: 1%;
-}
-
-video {
-    width: 50%;
-}
-img{
-    width:75%
+body{
+    background-color: white;
+    margin: 0 auto;
+    
     
 }
-#Credits{
-    width: 70%
+img{
+    width: 100%;
+   
+
+    
 }
-#subtitles{
-    font-size:25%;
+.Title{
+    margin-bottom: 50px;
+    float: left;
+    margin-right: 10%;
+    
+    
+  
+  
+}
+.Info{
+   font-size:30px;
+   padding-bottom: 2.6%;
+   margin-right:5%; 
+}
+.Others{
+    margin-top: 100px;
+    width: 75%;
+    
+}
+a{
+    color: black
+}
+.hl{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+iframe{
+    width:400px;
+    float:right;
+
 }

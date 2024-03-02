@@ -1,0 +1,52 @@
+html{
+    background-color: lightblue;
+    padding: 2% 2% 0% 2%;
+}
+body{
+    background-color: white;
+    margin: 0 auto;
+    
+    
+}
+img{
+    width: 100%;
+   
+
+    
+}
+.Title{
+    margin-bottom: 50px;
+    float: left;
+    margin-right: 10%;
+    
+    
+  
+  
+}
+.Info{
+   font-size:30px;
+   padding-bottom: 2.6%;
+   margin-right:5%; 
+}
+.Others{
+    margin-top: 100px;
+    width: 75%;
+    
+}
+a{
+    color: black
+}
+.hl{
+    list-style-type: none;
+    display: flex;
+    
+    justify-content: space-between;
+}
+
+.hl iframe{
+    margin-left:15%;
+    width:45%;
+}
+.Space{
+    padding-bottom: 30%
+}
