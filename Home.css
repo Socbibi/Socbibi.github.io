@@ -12,6 +12,7 @@ html {
     max-width: 960px; 
     font-family: Roboto, Montserrat; 
     line-height: 1.6;  
+    padding: 20px;
   }
   
   img {
@@ -31,7 +32,7 @@ html {
   
   .Info {
     font-size: 22px; 
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     text-align: center; 
     font-weight: bold;
     font-family: Montserrat, Arial, Helvetica, sans-serif; 
